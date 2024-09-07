@@ -1,0 +1,46 @@
+#link1:hover{
+    color: brown;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+* {
+    color: brown;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+    color: #333;
+}
+
+header {
+    text-align: center;
+    padding: 50px;
+    background-color: #333;
+    color: #fff;
+}
+
+
+h1 {
+    margin: 0;
+    font-size: 36px;
+}
+
+p {
+    font-size: 18px;
+    margin: 10px 0;
+}
+
+section {
+    padding: 20px;
+    margin: 20px;
+    background-color: #409972;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    
+}
+
